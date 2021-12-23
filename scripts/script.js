@@ -49,7 +49,7 @@ let yoda = new Campeon(
   1500,
   "Luz",
   "yoda-button",
-  "assetsyoda.png"
+  "https://raw.githubusercontent.com/lucianoaraus/DOM_Coderhouse/main/assets/yoda.png"
 );
 let luke = new Campeon(
   "Luke Skywalker",
@@ -57,7 +57,7 @@ let luke = new Campeon(
   1100,
   "Luz",
   "luke-button",
-  "assetsluke.jpg"
+  "https://raw.githubusercontent.com/lucianoaraus/DOM_Coderhouse/main/assets/luke.jpg"
 );
 let leia = new Campeon(
   "Princesa Leia",
@@ -65,7 +65,7 @@ let leia = new Campeon(
   1000,
   "Luz",
   "leia-button",
-  "assetsleia.jpg"
+  "https://raw.githubusercontent.com/lucianoaraus/DOM_Coderhouse/main/assets/leia.jpg"
 );
 let vader = new Campeon(
   "Darth Vader",
@@ -73,7 +73,7 @@ let vader = new Campeon(
   1200,
   "Oscuridad",
   "vader-button",
-  "assets\vader.jpg"
+  "https://raw.githubusercontent.com/lucianoaraus/DOM_Coderhouse/main/assets/vader.jpg"
 );
 let obiWan = new Campeon(
   "Obi Wan",
@@ -81,7 +81,7 @@ let obiWan = new Campeon(
   1100,
   "Luz",
   "obi-button",
-  "assetsobi-wan.jpg"
+  "https://raw.githubusercontent.com/lucianoaraus/DOM_Coderhouse/main/assets/obi-wan.jpg"
 );
 let boba = new Campeon(
   "Boba Fett",
@@ -89,7 +89,7 @@ let boba = new Campeon(
   1100,
   "Oscuridad",
   "boba-button",
-  "assets\boba.png"
+  "https://raw.githubusercontent.com/lucianoaraus/DOM_Coderhouse/main/assets/boba.png"
 );
 
 const campeones = [yoda, luke, leia, vader, obiWan, boba];
